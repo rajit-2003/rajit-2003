@@ -10,29 +10,6 @@
 * 🏆 **2-Star at CodeChef**
 * 💡 **500+ Problems Solved** on LeetCode
 
----
-
-### 🧑‍💻 Development Experience
-
-#### 🚀 **Full Stack Developer Intern — SSquad Venture**
-
-*May 2024 – July 2024*
-
-* Built a **social bidding-based mobile app — Bidsyy** from scratch.
-* Technologies used: **Flutter (Dart)** for frontend, **Node.js** for backend.
-* Designed UI/UX using **Figma** and developed complete **REST APIs**.
-* Managed features like login/signup, OTP verification, profile setup, category-based bid systems, and real-time updates.
-
-#### 💻 **Web Development Intern — Oasis Infobyte**
-
-*Jan 2024 – Feb 2024*
-
-* Contributed to **frontend optimization** of the company's website.
-* Added custom-designed features and improved responsiveness.
-* Stack used: **HTML5, CSS3, JavaScript, Bootstrap**.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
