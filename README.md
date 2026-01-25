@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Competitive Programmer | Full Stack Developer | Product Enthusiast
 
-* 🧠 **Codeforces Specialist** (Rating: Specialist)
+* 🧠 **Expert on Codeforces** (Rating: Specialist)
 * 🏆 **4-Star at CodeChef**
-* 💡 **500+ Problems Solved** on LeetCode
+* 💡 **Knight** on LeetCode
 
 ### 🛠️ Tech Stack
 
