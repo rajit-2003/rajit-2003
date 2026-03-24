@@ -1,4 +1,4 @@
-# 💼 Rajit Singh Purviya
+# 💼 Rajit
 
 ### 🎓 Final Year Undergraduate | Electrical Engineering | IIT (BHU) Varanasi
 
